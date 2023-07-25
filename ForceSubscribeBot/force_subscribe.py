@@ -37,7 +37,7 @@ async def fsub(bot, msg: Message):
                 "3) ɪ ʜᴀᴠᴇ ʙᴇᴇɴ ᴅᴇᴍᴏᴛᴇᴅ ᴛʜᴇʀᴇ. \n"
                 "4) ʏᴏᴜ ʜᴀᴠᴇ ᴘʀᴏᴠɪᴅᴇᴅ ʟɪɴᴋ ɪɴsᴛᴇᴀᴅ ᴏғ ᴜsᴇʀɴᴀᴍᴇ/chat_id. \n\n"
                 "Pʟᴇᴀsᴇ ʀᴇ-ᴄʜᴇᴀᴋ ᴀʟʟ ᴛʜɪs 3 ᴛʜɪɴɢs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ʙᴀʙʏ"
-                "Iғ sᴛɪʟʟ ʜᴀᴠᴇ ɪssᴜᴇ ᴛʜᴇɴ ᴠɪsɪᴛ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ @the_support_chat."
+                "Iғ sᴛɪʟʟ ʜᴀᴠᴇ ɪssᴜᴇ ᴛʜᴇɴ ᴠɪsɪᴛ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ @INCRICIBLE."
             )
             return
         except ValueError as e:
