@@ -1,9 +1,9 @@
 # ғᴏʀᴄᴇ sᴜʙsᴄʀɪʙᴇ ʙᴏᴛ
 
- [Fᴏʀᴄᴇ sᴜʙsʀɪʙᴇ Bᴏᴛ](https://t.me/ForceSubscriber_RoBot)
+ [Fᴏʀᴄᴇ sᴜʙsʀɪʙᴇ Bᴏᴛ](https://t.me/FORCE_SUBSCRIBER_RoBot)
 > ɢɪvᴇ ᴀ sᴛᴀʀ ʙᴇғᴏʀᴇ ᴋᴀᴍɢɪɴɢ  ғᴜᴍᴋᴇʀ
 
-<p align="center"><a href="https://github.com/Noob-mukesh/ForceSubsribeBot"><img src="https://te.legra.ph/file/fe924e2746ad34b7dc76d.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/mrtosumemon/Forcesubscribebot"><img src="https://te.legra.ph/file/fe924e2746ad34b7dc76d.jpg" width="2000"></a></p>
 
  ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ғᴏʀᴄᴇ sᴜʙsʀɪʙᴇ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴜsᴇʀs ᴛᴏ sᴜʙsʀɪʙᴇ ᴄʜᴀɴɴᴇʟ ᴏʀ ᴄʜᴀᴛ ʙʙ
 
@@ -23,7 +23,7 @@
 
 1. Cʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏ
    ```markdown
-   git clone https://github.com/Noob-Mukesh/ForceSubscribeBot
+   git clone https://github.com/mrtosumemon/FORCESUBSCRIBEBOT
    ```
    
 2. Gᴇᴛ ᴀ DATABASE_URL.  Iғ ʏᴏᴜ ᴅᴏɴᴛ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ .ᴛʜᴇɴ ᴅᴇᴘʟᴏʏ ᴜsɪɴɢ ʜᴇʀᴜᴋᴏ ʙᴜᴛᴛᴏɴᴏɴʟʏ ᴏʀ ᴅᴇʟᴇᴛᴇ ᴅᴀᴛᴀʙᴀsᴇ ᴛʜɪɴɢs ᴀs ɪᴛ's ɴᴏᴛ ᴀ ᴄᴏᴍᴘᴜʟsɪᴏɴ.
@@ -32,7 +32,7 @@
 
 4. Eɴᴛᴇʀ ᴛʜᴇ ᴅɪʀᴇᴄᴛᴏʀʏ
    ```markdown
-   cd ForceSubscribeBot
+   cd FORCESUBSCRIBEBOT
    ```
 5. Rᴜɴ ᴛʜᴇ ғɪʟᴇ
    ```markdown
@@ -59,13 +59,13 @@
 
  
 
-[ɴᴏᴏʙ ᴄᴏᴅᴇʀ](https://t.me/legend_coder)
+[ᴄᴏᴅᴇʀ_ɢᴏᴅғᴀᴛʜᴇʀ](https://t.me/your_godfather_xd)
 
 ## sᴜᴘᴘᴏʀᴛ
 
-ᴄʜᴀɴɴᴇʟ :- [ᴍᴜᴋᴇsʜ ʙᴏᴛ ᴢᴏɴᴇ](https://t.me/mukeshbotzone)
+ᴄʜᴀɴɴᴇʟ :- [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/The_Incricible)
 
-ɢʀᴏᴜᴘ ᴄʜᴀᴛ :- [ᴛʜᴇ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/the_support_chat)
+ɢʀᴏᴜᴘ ᴄʜᴀᴛ :- [ᴛʜᴇ sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/INCRICIBLE)
 
 ## :)
 
