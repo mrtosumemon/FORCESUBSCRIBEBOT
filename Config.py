@@ -27,7 +27,7 @@ else:
     START_IMG= ""
     DATABASE_URL = ""
     BOT_USERNAME=""
-    OWNER_ID=5935608297
+    OWNER_ID=5288547197
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
     MUST_JOIN = ""
     if MUST_JOIN.startswith("@"):
