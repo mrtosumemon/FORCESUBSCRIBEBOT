@@ -16,7 +16,7 @@
             "plan": "heroku-postgresql"
         }
     ],
-  "repository": "https://github.com/StarkBotsIndustries/ForceSubscribeBot",
+  "repository": "https://github.com/mrtosumemon/ForceSubsribeBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
